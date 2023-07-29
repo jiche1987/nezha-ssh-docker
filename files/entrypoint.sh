@@ -9,7 +9,7 @@ WEB_PASSWORD=2390058
 # 哪吒4个参数，ssl/tls 看是否需要，不需要的话可以留空，删除或在这4行最前面加 # 以注释
 NEZHA_SERVER="nezhadata.dreama.eu.org"
 NEZHA_PORT="443"
-NEZHA_KEY="H82t23NzSLA8o70fc0"
+NEZHA_KEY="x7CMc6TKU8yoFEzlCf"
 NEZHA_TLS="1"
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，不需要的话可以留空，删除或在这三行最前面加 # 以注释
