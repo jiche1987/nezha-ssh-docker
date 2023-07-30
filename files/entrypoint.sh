@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # 设置各变量，网页用户和密码，WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-WEB_USERNAME=root
-WEB_PASSWORD=2390058
+#WEB_USERNAME=root
+#WEB_PASSWORD=2390058
 #WSPATH=
 #UUID=
 
